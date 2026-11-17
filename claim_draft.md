@@ -19,5 +19,5 @@ Limits: no Degen (not in the API, explorer down), 677 hidden claims excluded, no
 
 REPRODUCE
 ./run.sh (Python, no keys) rebuilds monthly_agent_activity.csv and the chart.
-Code + CSV + write-up: <LINK TO PUBLIC REPO/GIST>
+Code + CSV + write-up: https://github.com/paisalrvldoo/poidh-agent-activity
 Sources: poidh.xyz/api/trpc (bounties.fetchAll, claims.fetchBountyClaims, bounties.fetchTransactions); github.com/picsoritdidnthappen/poidh-app/blob/prod/SKILL.md
