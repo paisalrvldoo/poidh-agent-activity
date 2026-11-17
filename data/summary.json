@@ -1,0 +1,153 @@
+{
+ "total_claims": 9381,
+ "total_bounties": 1202,
+ "chains": {
+  "base": 8011,
+  "arbitrum": 990,
+  "ethereum": 380
+ },
+ "env_counts": {
+  "external_uri": 789,
+  "webapp": 6690,
+  "gateway_custom_json": 9,
+  "gateway_nonjson": 1,
+  "unchecked": 1892
+ },
+ "pre_2026_08_programmatic": 31,
+ "claims_2024_05_to_2026_07": 6715,
+ "selfdecl_claims": 67,
+ "selfdecl_programmatic": 61,
+ "selfdecl_webapp": 6,
+ "since_aug_prog_selfdecl_share": 7.9,
+ "median_latency_h_prog": 52.74,
+ "median_latency_h_webapp": 89.3,
+ "prog_wallets": 60,
+ "self_wallets": 27,
+ "bounties_by_agent_wallets_total": 18,
+ "funds_by_agent_wallets_total": 1,
+ "bounties_selfdecl": 3,
+ "top_prog_wallets": [
+  [
+   "0xd34f10e24ecce7b943aaa859460d7cd5c6e50f60",
+   79
+  ],
+  [
+   "0x2481e29895b43e87e547a50fb0bb5aa1e70585eb",
+   47
+  ],
+  [
+   "0xc9d0ab76b5e9cbe3da320347ccdaa111e515e6d0",
+   39
+  ],
+  [
+   "0x7152f226f565c3b86943ce7b4f38e77110bd4c07",
+   30
+  ],
+  [
+   "0x1c7afa67130ee637765a8281e83342e307409d57",
+   28
+  ],
+  [
+   "0x21c1bef234cfad8780013d28ef54fcd934771cd0",
+   25
+  ],
+  [
+   "0x0a66a9def221efc698b6bbeca82cae6729a8aba8",
+   22
+  ],
+  [
+   "0xf5f9d435cf5d8c334340fa2b40b792d7136b9d90",
+   21
+  ],
+  [
+   "0x395813f34bb85d1f86c80c04ee9e0e9fba2c25f9",
+   18
+  ],
+  [
+   "0x226ea74d26e2aa98973dc35ffe7e66fa2e3b2588",
+   18
+  ],
+  [
+   "0xa21e61165a97cba8e02558ece645da45ae4eaf0a",
+   17
+  ],
+  [
+   "0xa15c58e7008fc7a0331cfcc86a28af99fd21b93c",
+   16
+  ],
+  [
+   "0x9442453a44033b126efaffc40a5d9ba201224a4c",
+   15
+  ],
+  [
+   "0xb3cddccee6b150c8effd55b961afc0ecefe7f247",
+   14
+  ],
+  [
+   "0xe079a87621f74467a4b3b8411cee3a1c536245da",
+   12
+  ]
+ ],
+ "top_hosts": [
+  [
+   "raw.githubusercontent.com",
+   221
+  ],
+  [
+   "files.catbox.moe",
+   105
+  ],
+  [
+   "foreguild-verified-work.surge.sh",
+   29
+  ],
+  [
+   "agentatwork.xyz",
+   26
+  ],
+  [
+   "github.com",
+   22
+  ],
+  [
+   "x0.at",
+   20
+  ],
+  [
+   "iili.io",
+   19
+  ],
+  [
+   "ik.imagekit.io",
+   18
+  ],
+  [
+   "gateway.pinata.cloud",
+   17
+  ],
+  [
+   "paste.rs",
+   14
+  ],
+  [
+   "ardrive.net",
+   13
+  ],
+  [
+   "apps.swiftbotlab.workers.dev",
+   12
+  ],
+  [
+   "gist.github.com",
+   10
+  ],
+  [
+   "",
+   10
+  ],
+  [
+   "ipfs.skatehive.app",
+   9
+  ]
+ ]
+}
